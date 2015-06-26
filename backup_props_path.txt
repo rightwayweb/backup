@@ -1,0 +1,1 @@
+/home/jglorioso/zitego/backup/sample_backup.properties
